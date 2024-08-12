@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60e6f44b-47bf-4a8c-b58f-6a2e35db048b" name="Changes" comment="updated files">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="60e6f44b-47bf-4a8c-b58f-6a2e35db048b" name="Changes" comment="updated files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,12 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:/Abhishek94Rawat94/APIAutomationFramework.git",
-    "accountId": "a76c900a-9706-42c8-b393-dd2ed38d08d4"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Abhishek94Rawat94&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:/Abhishek94Rawat94/APIAutomationFramework.git&quot;,
+    &quot;accountId&quot;: &quot;a76c900a-9706-42c8-b393-dd2ed38d08d4&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -37,29 +41,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for conftest.test_create_booking.executor": "Run",
-    "Python tests.Python tests for conftest.test_create_token.executor": "Run",
-    "Python tests.Python tests for test_create_booking.TestCreateBooking.executor": "Run",
-    "Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_negative.executor": "Run",
-    "Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_negative2.executor": "Run",
-    "Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_negative2.test_get_booking_id_positive.executor": "Run",
-    "Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_negative2.test_invalid_firstname.executor": "Run",
-    "Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_positive.executor": "Run",
-    "Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_positive.test_create_booking_negative.executor": "Run",
-    "Python tests.Python tests for test_create_booking.TestCreateBooking.test_get_booking_id.executor": "Run",
-    "Python tests.Python tests for test_create_booking.TestCreateBooking.test_negative4.executor": "Run",
-    "Python tests.Python tests for test_create_booking.TestCreateBooking.test_negative5.executor": "Run",
-    "Python tests.Python tests for test_create_booking.TestCreateBooking.test_spc_char_in_firstname_negative3.executor": "Run",
-    "Python tests.Python tests in conftest.py.executor": "Run",
-    "Python tests.Python tests in test_create_booking.py.executor": "Run",
-    "Python.conftest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for conftest.test_create_booking.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for conftest.test_create_token.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_create_booking.TestCreateBooking.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_negative2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_negative2.test_get_booking_id_positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_negative2.test_invalid_firstname.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_positive.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_positive.test_create_booking_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_create_booking.TestCreateBooking.test_get_booking_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_create_booking.TestCreateBooking.test_negative4.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_create_booking.TestCreateBooking.test_negative5.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_create_booking.TestCreateBooking.test_spc_char_in_firstname_negative3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in conftest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_create_booking.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conftest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="pip install requests pytest pytest-html faker allure-pytest jsonschema" />
@@ -180,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723444027689</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated files">
+      <option name="closed" value="true" />
+      <created>1723444941220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723444941220</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
