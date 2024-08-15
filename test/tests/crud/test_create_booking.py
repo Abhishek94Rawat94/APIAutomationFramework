@@ -123,3 +123,25 @@ class TestCreateBooking(object):
 
         verify_http_status_code(response_data=response,expected_data=404)
 
+    @pytest.mark.negative
+    @allure.title("Verify booking should not get created with minimum payload")
+    @allure.description("Verify the booking should not get created if the payload is with minimum key and value")
+    def test_negative6(self):
+        response = post_request(url=APIConstants().url_create_booking(),
+                                auth=None,
+                                headers=Utils().common_headers_json(),
+                                payload={
+                                    "firstname": "",
+                                    "lastname": "",
+                                    "totalprice": 500,
+                                    "depositpaid": True,
+                                },
+                                in_json=False
+                                )
+
+        verify_http_status_code(response_data=response, expected_data=500)
+
+
+
+
+

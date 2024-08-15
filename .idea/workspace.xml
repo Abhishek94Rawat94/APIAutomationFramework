@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60e6f44b-47bf-4a8c-b58f-6a2e35db048b" name="Changes" comment="updated files">
+      <change afterPath="$PROJECT_DIR$/common_utility_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tests/crud/integration_tes_scenario3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tests/crud/integration_tes_scenario4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tests/crud/integration_tes_scenario5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tests/crud/integration_test_scenario2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/common_verifications.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/common_verifications.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tests/crud/test_create_booking.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/tests/crud/test_create_booking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tests/crud/test_crud.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/tests/crud/Integration_test_scenario1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +79,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for Integration_test_scenario1.test_patch_request_positive.executor": "Run",
+    "Python tests.Python tests for common_utility_func.test_create_booking.executor": "Run",
+    "Python tests.Python tests for common_utility_func.test_create_token.executor": "Run",
     "Python tests.Python tests for conftest.test_create_booking.executor": "Run",
     "Python tests.Python tests for conftest.test_create_token.executor": "Run",
     "Python tests.Python tests for test_create_booking.TestCreateBooking.executor": "Run",
@@ -83,8 +95,11 @@
     "Python tests.Python tests for test_create_booking.TestCreateBooking.test_negative4.executor": "Run",
     "Python tests.Python tests for test_create_booking.TestCreateBooking.test_negative5.executor": "Run",
     "Python tests.Python tests for test_create_booking.TestCreateBooking.test_spc_char_in_firstname_negative3.executor": "Run",
+    "Python tests.Python tests for test_get_booking_id.TestGetBookingApi.test_get_booking_positive.executor": "Run",
     "Python tests.Python tests in conftest.py.executor": "Run",
     "Python tests.Python tests in test_create_booking.py.executor": "Run",
+    "Python.api_constants.executor": "Run",
+    "Python.common_utility_func.executor": "Run",
     "Python.conftest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -101,8 +116,8 @@
       <command value="pip install openpyxl" />
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_create_booking.TestCreateBooking.test_negative5">
-    <configuration name="Python tests for test_create_booking.TestCreateBooking.test_create_booking_negative2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for Integration_test_scenario1.test_patch_request_positive">
+    <configuration name="Python tests for Integration_test_scenario1.test_patch_request_positive" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationFramework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,56 +128,56 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_create_booking.TestCreateBooking.test_create_booking_negative2&quot;" />
+      <option name="_new_target" value="&quot;Integration_test_scenario1.test_patch_request_positive&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_create_booking.TestCreateBooking.test_negative4" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for common_utility_func.test_create_booking" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationFramework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/tests/crud" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_create_booking.TestCreateBooking.test_negative4&quot;" />
+      <option name="_new_target" value="&quot;common_utility_func.test_create_booking&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_create_booking.TestCreateBooking.test_negative5" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for conftest.test_create_booking" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationFramework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/tests/crud" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_create_booking.TestCreateBooking.test_negative5&quot;" />
+      <option name="_new_target" value="&quot;conftest.test_create_booking&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_create_booking.TestCreateBooking.test_spc_char_in_firstname_negative3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for conftest.test_create_token" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationFramework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/tests/crud" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_create_booking.TestCreateBooking.test_spc_char_in_firstname_negative3&quot;" />
+      <option name="_new_target" value="&quot;conftest.test_create_token&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_create_booking.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_get_booking_id.TestGetBookingApi.test_get_booking_positive" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="APIAutomationFramework" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,17 +188,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/tests/crud/test_create_booking.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_get_booking_id.TestGetBookingApi.test_get_booking_positive&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_create_booking.TestCreateBooking.test_negative5" />
-        <item itemvalue="Python tests.Python tests in test_create_booking.py" />
-        <item itemvalue="Python tests.Python tests for test_create_booking.TestCreateBooking.test_negative4" />
-        <item itemvalue="Python tests.Python tests for test_create_booking.TestCreateBooking.test_spc_char_in_firstname_negative3" />
-        <item itemvalue="Python tests.Python tests for test_create_booking.TestCreateBooking.test_create_booking_negative2" />
+        <item itemvalue="Python tests.Python tests for Integration_test_scenario1.test_patch_request_positive" />
+        <item itemvalue="Python tests.Python tests for common_utility_func.test_create_booking" />
+        <item itemvalue="Python tests.Python tests for test_get_booking_id.TestGetBookingApi.test_get_booking_positive" />
+        <item itemvalue="Python tests.Python tests for conftest.test_create_booking" />
+        <item itemvalue="Python tests.Python tests for conftest.test_create_token" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723446455175</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated files">
+      <option name="closed" value="true" />
+      <created>1723446927126</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723446927126</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

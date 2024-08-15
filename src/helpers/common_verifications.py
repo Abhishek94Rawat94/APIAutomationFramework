@@ -2,6 +2,10 @@ def verify_http_status_code(response_data, expected_data):
     assert response_data.status_code == expected_data, "Expected code is Not same"
 
 
+def verify_error_message(actual_error_message, expected_error_message):
+    assert actual_error_message == expected_error_message
+
+
 def verify_the_json_response(response_data, expected_data):
     assert response_data == expected_data
 
